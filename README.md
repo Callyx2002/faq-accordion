@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://callyx2002.github.io/faq-accordion/))
+- Live Site URL: [faq accordion](https://callyx2002.github.io/faq-accordion/)
 ### Built with
 
 - Semantic HTML5 markup
@@ -51,14 +51,6 @@ How to use JavaScript and semantic HTML/CSS to make accordions
 Javascript and Tailwind CSS
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
 
 - Frontend Mentor - [@Callyx2002](https://www.frontendmentor.io/profile/@Callyx2002)
 - Twitter - [@CalebArodu](https://www.twitter.com/@CalebArodu)
